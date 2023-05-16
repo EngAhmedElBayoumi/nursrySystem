@@ -1,0 +1,29 @@
+{
+  "name": "nurserysystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "canvas": "^2.11.0",
+    "chart.js": "^4.2.1",
+    "express": "^4.18.2",
+    "express-validator": "^6.15.0",
+    "fs": "^0.0.1-security",
+    "html-pdf": "^3.0.1",
+    "jspdf": "^2.5.1",
+    "mongoose": "^6.9.2",
+    "morgan": "^1.10.0",
+    "node-cache": "^5.1.2",
+    "puppeteer": "^19.7.5",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^4.6.3"
+  }
+}
